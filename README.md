@@ -1,4 +1,4 @@
-# Step to run client
+# Steps to run client
 
 1. go inside client dirctory
 2. run "npm install"
@@ -6,7 +6,7 @@
 
 client will start at localhost:8000
 
-# Step to run server
+# Steps to run server
 
 1. go inside server dirctory
 2. run "npm install"
@@ -14,4 +14,4 @@ client will start at localhost:8000
 
 server will start listening at localhost:5000
 
-Prerequisit: MySQL and REDIS needs to be install on host machine
+Prerequisit: MySQL and REDIS needs to be installed on host machine.
